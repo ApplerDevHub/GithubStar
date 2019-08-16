@@ -24,7 +24,7 @@
 ### Description
 
 <br>
-SKHub is a GitHub mobile client.
+GithubStar is a GitHub mobile client.
 <br>
 You can check it anytime:
 <br>
